@@ -9,6 +9,9 @@
     "build": "vercel build",
     "deploy": "vercel --prod"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "express": "^4.22.1"
   },
